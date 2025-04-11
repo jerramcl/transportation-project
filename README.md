@@ -12,10 +12,4 @@ A key limitation of the analysis was the use of zip-code level data, which may h
 
 While I didn’t find a significant impact on property values, this doesn’t discount the broader public benefits of transit investments—such as reducing traffic congestion, improving air quality, and increasing access to jobs. This project highlights the importance of access to more granular, property-level data, and suggests that future research should incorporate additional variables like commercial development, zoning changes, and specific transit-oriented housing policies (e.g., [SB-167](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB167)). Ultimately, this case study serves as an example of how careful empirical design can shed light on complex policy questions, even when the results challenge conventional assumptions.
 
-
-
-
-
-
-
-Note: see code in the .ipynb linked above, and data in the csv file
+Note: see code and data in the notebook and data folders above. 
